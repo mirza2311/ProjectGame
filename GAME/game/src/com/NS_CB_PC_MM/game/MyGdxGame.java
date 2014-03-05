@@ -19,7 +19,7 @@ public class MyGdxGame implements ApplicationListener {
 	private Texture texture;
 	private Sprite sprite;
 	private TextButton button;
-	private Label labe;
+	
 	
 	@Override
 	public void create() {		
