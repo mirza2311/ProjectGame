@@ -18,7 +18,7 @@ public class MyGdxGame implements ApplicationListener {
 	private SpriteBatch batch;
 	private Texture texture;
 	private Sprite sprite;
-
+	private TextButton button;
 	
 	
 	@Override
